@@ -237,7 +237,7 @@
  - github.com/manifoldco/promptui ([BSD-3-Clause](https://github.com/manifoldco/promptui/blob/v0.9.0/LICENSE.md))
  - github.com/marten-seemann/qpack ([MIT](https://github.com/marten-seemann/qpack/blob/v0.2.1/LICENSE.md))
  - github.com/marten-seemann/qtls-go1-19 ([BSD-3-Clause](https://github.com/marten-seemann/qtls-go1-19/blob/v0.1.0/LICENSE))
- - github.com/matcornic/hermes/v2 ([Apache-2.0](https://github.com/matcornic/hermes/blob/v2.1.0/LICENSE))
+ - github.com/sebatminalea/hermes/v2 ([Apache-2.0](https://github.com/matcornic/hermes/blob/v2.1.0/LICENSE))
  - github.com/mattn/go-colorable ([MIT](https://github.com/mattn/go-colorable/blob/v0.1.13/LICENSE))
  - github.com/mattn/go-ieproxy ([MIT](https://github.com/mattn/go-ieproxy/blob/v0.0.1/LICENSE))
  - github.com/mattn/go-isatty ([MIT](https://github.com/mattn/go-isatty/blob/v0.0.16/LICENSE))

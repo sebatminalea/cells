@@ -24,7 +24,7 @@ import (
 	"context"
 	"fmt"
 
-	hermes "github.com/matcornic/hermes/v2"
+	hermes "github.com/sebatminalea/hermes/v2"
 	"go.uber.org/zap"
 	protobuf "google.golang.org/protobuf/proto"
 
