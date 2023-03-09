@@ -58,7 +58,7 @@ require (
 	github.com/livekit/protocol v0.11.11
 	github.com/lpar/gzipped v1.1.0
 	github.com/manifoldco/promptui v0.9.0
-	github.com/sebatminalea/hermes/v2 v2.1.1
+	github.com/sebatminalea/hermes/v2 v2.1.2
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/microcosm-cc/bluemonday v1.0.20
 	github.com/minio/cli v1.22.0
