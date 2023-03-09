@@ -1,0 +1,1 @@
+GONOSUMDB=**/sebatminalea/**
